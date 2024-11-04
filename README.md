@@ -2,7 +2,7 @@
 
 ## Description
 
-OpenRSAI-Markup complies the [OpenRSAI Core](https://github.com/miron77s/open_rsai) to create a dataset preparing toolchain capable to create Yolo and MS COCO annotations.
+OpenRSAI-Markup complies the [OpenRSAI Core](https://github.com/miron77s/open_rsai) with dataset preparing toolchains capable to create Yolo and MS COCO annotations.
 
 ## Requirements
 
