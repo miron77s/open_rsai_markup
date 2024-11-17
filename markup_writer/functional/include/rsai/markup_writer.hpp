@@ -1,6 +1,6 @@
 #pragma once
 
-#include "core/rsai/markup_writer.h"
+#include "rsai/markup_writer.h"
 
 #include <ogrsf_frmts.h>
 #include <cstdint>
