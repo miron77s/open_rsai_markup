@@ -3,7 +3,7 @@
 
 #include <core/args-parser/all.hpp>
 
-#include "core/rsai/markup_writer.h"
+#include "rsai/markup_writer.h"
 
 #include "core/common/definitions.h"
 #include "core/common/arguments.h"
