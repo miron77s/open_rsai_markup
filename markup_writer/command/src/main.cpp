@@ -1,15 +1,15 @@
 #include <iostream>
 #include <string>
 
-#include <core/args-parser/all.hpp>
+#include "args-parser/args-parser/all.hpp"
 
 #include "rsai/markup_writer.h"
 
-#include "core/common/definitions.h"
-#include "core/common/arguments.h"
-#include "core/common/promt_functions.hpp"
-#include "core/common/progress_functions.hpp"
-#include "core/eigen_utils/vector_helpers.h"
+#include "common/definitions.h"
+#include "common/arguments.h"
+#include "common/promt_functions.hpp"
+#include "common/progress_functions.hpp"
+#include "eigen_utils/vector_helpers.h"
 
 using namespace std;
 

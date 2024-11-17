@@ -5,19 +5,19 @@
 #include <ogrsf_frmts.h>
 #include <cstdint>
 
-#include "core/common/definitions.h"
-#include "core/gdal_utils/all_helpers.h"
-#include "core/eigen_utils/vector_helpers.h"
-#include "core/eigen_utils/gdal_bridges.h"
-#include "core/eigen_utils/geometry.h"
-#include "core/eigen_utils/math.hpp"
-#include "core/gdal_utils/shared_options.h"
-#include "core/gdal_utils/shared_feature.h"
-#include "core/opencv_utils/raster_roi.h"
-#include "core/opencv_utils/gdal_bridges.h"
-#include "core/opencv_utils/geometry_renderer.h"
-#include "core/threading_utils/gdal_iterators.h"
-#include "core/rsai/markup/writers.h"
+#include "common/definitions.h"
+#include "gdal_utils/all_helpers.h"
+#include "eigen_utils/vector_helpers.h"
+#include "eigen_utils/gdal_bridges.h"
+#include "eigen_utils/geometry.h"
+#include "eigen_utils/math.hpp"
+#include "gdal_utils/shared_options.h"
+#include "gdal_utils/shared_feature.h"
+#include "opencv_utils/raster_roi.h"
+#include "opencv_utils/gdal_bridges.h"
+#include "opencv_utils/geometry_renderer.h"
+#include "threading_utils/gdal_iterators.h"
+#include "rsai/markup/writers.h"
 
 using namespace rsai;
 

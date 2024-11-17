@@ -3,10 +3,10 @@
 #include <string>
 #include <Eigen/Dense>
 
-#include "core/common/promt_functions.hpp"
-#include "core/common/progress_functions.hpp"
-#include "core/common/string_utils.h"
-#include "core/rsai/markup/writers.h"
+#include "common/promt_functions.hpp"
+#include "common/progress_functions.hpp"
+#include "common/string_utils.h"
+#include "rsai/markup/writers.h"
 
 namespace rsai
 {
