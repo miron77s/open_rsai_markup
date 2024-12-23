@@ -4,6 +4,11 @@
 
 OpenRSAI-Markup complies the [OpenRSAI Core](https://github.com/miron77s/open_rsai) with dataset preparing toolchains capable to create Yolo and MS COCO annotations.
 
+## Tutorial
+
+The OpenRSAI-Markup is the [Open Remote Sensing AI Library Core](https://github.com/miron77s/open_rsai) library extension that can be installed and tested in complex according the [tutorial](https://github.com/miron77s/open_rsai/blob/main/tutorial/TUTORIAL.md). 
+
+
 ## Requirements
 
 All instructions below are tailored for Ubuntu 22.04 users. If you are using a different operating system, please adjust the commands accordingly.
