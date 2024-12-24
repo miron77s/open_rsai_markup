@@ -13,7 +13,17 @@ The OpenRSAI-Markup is the [Open Remote Sensing AI Library Core](https://github.
 
 All instructions below are tailored for Ubuntu 22.04 users. If you are using a different operating system, please adjust the commands accordingly.
 
-Dataset preparing toolchain uses basics utilities of [Open Remote Sensing AI Library Core](https://github.com/miron77s/open_rsai). To install it follow the  [requirements](https://github.com/miron77s/open_rsai#requirements) and pull all it's submodules:
+The requirements are the following:
+
+1. Dataset preparing toolchain uses basic utilities of [Open Remote Sensing AI Library Core](https://github.com/miron77s/open_rsai), so follow it's [requirements](https://github.com/miron77s/open_rsai#requirements).
+
+2. Install Qt5 packages:
+
+```
+sudo apt-get install -y qtbase5-dev qtdeclarative5-dev
+```
+
+3. Pull OpenRSAI-Markup submodules:
 
 ```
 git clone https://github.com/miron77s/open_rsai_markup
