@@ -25,6 +25,8 @@ add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES})
 target_link_libraries(
                         ${PROJECT_NAME}
                         gdal
+                        ${CURL_LIBRARIES}
+                        ${TIFF_LIBRARIES}
                         Qt5::Core
                         Qt5::Gui
                         Qt5::Widgets
